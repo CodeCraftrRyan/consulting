@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0C1E33"/>
+      <stop offset="100%" stop-color="#142D4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="72" y="72" width="128" height="128" rx="24" fill="#0C1E33" stroke="#233E60" stroke-width="3"/>
+  <text x="136" y="168" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="92" font-weight="500" fill="#ECF2F9">R<tspan fill="#5FAAE0">.</tspan></text>
+  <text x="72" y="304" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#ECF2F9">Ryan Haviland</text>
+  <text x="72" y="364" font-family="'Hanken Grotesk', Arial, sans-serif" font-size="36" fill="#A6B4C7">Strategy, systems and operations for mission-driven teams</text>
+</svg>
